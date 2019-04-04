@@ -8,4 +8,5 @@ package com.laman.test;
  * @Version 1.0
  **/
 public class Testgit {
+    private int id;
 }

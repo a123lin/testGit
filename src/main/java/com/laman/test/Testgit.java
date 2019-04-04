@@ -9,4 +9,5 @@ package com.laman.test;
  **/
 public class Testgit {
     private int id;
+    private String name;
 }

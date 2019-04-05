@@ -11,5 +11,6 @@ public class Testgit {
     private int id;
     private String name;
     public void test(){
+        System.out.println("这是分支");
     }
 }
